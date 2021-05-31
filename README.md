@@ -1,4 +1,6 @@
-# Notes from the course 'Master the Coding Interview: DSA by Andrei Ng.'
+# Notes
+
+## These are from the course 'Master the Coding Interview: DSA by Andrei Ng.'
 
 **Technical:**
 
